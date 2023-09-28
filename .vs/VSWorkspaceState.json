@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Model",
+    "\\Model\\Dao",
+    "\\OnlineShop",
+    "\\OnlineShop\\assets",
+    "\\OnlineShop\\assets\\admin",
+    "\\OnlineShop\\assets\\admin\\js",
+    "\\OnlineShop\\assets\\admin\\js\\controller",
+    "\\OnlineShop\\Controllers",
+    "\\OnlineShop\\Views",
+    "\\OnlineShop\\Views\\Product"
+  ],
+  "SelectedNode": "\\OnlineShop\\Areas\\Admin\\Views\\Shared\\_Navigation.cshtml",
+  "PreviewInSolutionExplorer": false
+}

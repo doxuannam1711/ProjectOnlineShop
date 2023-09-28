@@ -1,0 +1,29 @@
+﻿@model List<Model.EF.Menu>
+
+<div class="call">
+    <p><span>Cần trợ giúp?</span> gọi cho chúng tôi <span class="number">113</span></p>
+</div>
+<div class="account_desc">
+    @{
+        var session = (OnlineShop.Common.UserLogin)Session[OnlineShop.Common.CommonConstants.USER_SESSION];
+    }
+    @if (session == null)
+    {
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li><a href="@item.Link" target="@item.Target">@item.Text</a></li>
+
+            }
+        </ul>
+    }
+    else
+    {
+        <ul>
+            <li>Xin chào: @session.UserName</li>
+            <li>@Html.ActionLink("Đăng xuất","Logout","User")</li>
+
+        </ul>
+    }
+</div>
+<div class="clear"></div>

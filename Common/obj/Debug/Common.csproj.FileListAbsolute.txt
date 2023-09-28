@@ -1,0 +1,8 @@
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\bin\Debug\Common.dll
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\bin\Debug\Common.pdb
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\bin\Debug\Facebook.dll
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\bin\Debug\Facebook.xml
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\obj\Debug\Common.csproj.CopyComplete
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\obj\Debug\Common.dll
+D:\CODE_ASP.NET\ProjectOnlineShop\Common\obj\Debug\Common.pdb
